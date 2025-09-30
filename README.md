@@ -1,2 +1,2 @@
 # SIPU
-Sistema de Inscripción y postulación
+Sistema de Inscripción y postulación.
